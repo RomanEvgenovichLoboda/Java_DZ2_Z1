@@ -97,4 +97,3 @@ public Bank.Account createAccount(String clientName, String passport, double ini
         return builder.toString();
     }
 }
-
